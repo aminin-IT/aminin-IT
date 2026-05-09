@@ -1,23 +1,23 @@
 # Andrea Minin 👋
 
-## Software Delivery Lead | Fintech & Gaming Platforms Architect
+## Software Delivery Lead | Fintech & Platform Engineering
 
-Building scalable ecosystems across fintech, gaming, digital wallets and enterprise integrations.
+Building scalable ecosystems across fintech, gaming, cloud infrastructure and digital payment integrations.
 
-Currently leading delivery, architecture alignment and implementation strategy at Tecno Acción S.A., coordinating Development, QA, Infrastructure and Business areas for critical provincial platforms and high-availability transactional systems.
+Currently leading software delivery, architecture alignment and implementation strategy across high-availability transactional platforms, coordinating Development, QA, Infrastructure and Business areas while driving modernization, operational reliability and continuous improvement initiatives.
 
 ---
 
 # 🚀 Current Focus
 
-- GitLab → GitHub migration & repository modernization
+- Platform modernization initiatives
+- GitLab → GitHub migration strategies
 - CI/CD standardization with GitHub Actions
-- SonarQube quality gates & continuous inspection
-- AWS ECS deployments & cloud orchestration
-- Modular refactor & platform evolution
-- Payment ecosystem integrations
-- Observability & operational governance
-- AI-assisted development workflows (MCP / EST-IA)
+- SonarQube quality governance
+- AWS ECS cloud orchestration
+- Refactor & modular architecture evolution
+- Observability & operational reliability
+- AI-assisted engineering workflows
 
 ---
 
@@ -30,7 +30,7 @@ Currently leading delivery, architecture alignment and implementation strategy a
 - Clean Architecture
 - Domain Driven Design (DDD)
 - Event-Driven Architecture
-- High availability transactional systems
+- Scalable transactional systems
 - Technical governance
 
 ## DevOps & Cloud
@@ -40,32 +40,89 @@ Currently leading delivery, architecture alignment and implementation strategy a
 - GitLab CI/CD
 - SonarQube
 - Infrastructure orchestration
-- Deployment strategy
 - Release management
-- Rollback strategy
-- Environment governance (DEV / QA / UAT / PROD)
+- Environment governance
+- Deployment strategy
+- Operational reliability
 
-## Payments & Fintech
-- Mercado Pago Checkout Pro
-- Mercado Pago QR Retail
-- Mercado Pago multi-tenant integrations
-- MODO Online V1 & V2
-- Paydiss
-- Payway
-- TotalCoin
-- Digital wallets
+## Payments & Integrations
+- Digital payment ecosystems
+- Wallet integrations
+- QR payment solutions
 - Payment gateway integrations
-- Transactional flows
-- Webhooks & HMAC validation
-- QR ecosystem integrations
-
-
-Focused on long-term maintainability, delivery reliability and ecosystem evolution.
+- Multi-provider transactional flows
+- Webhook integrations
+- Secure validation strategies
+- Enterprise integration patterns
 
 ---
 
-# 📫 Connect
+# 💻 Tech Stack
 
-- LinkedIn
-- GitHub
-- Fintech & Gaming Tech Communities
+## Backend
+- Java
+- Spring Boot
+- Node.js
+- NestJS
+
+## Frontend
+- React
+- Next.js
+
+## Databases
+- PostgreSQL
+- Oracle
+
+## DevOps & Infrastructure
+- AWS
+- ECS
+- Docker
+- GitHub Actions
+- GitLab CI/CD
+- SonarQube
+
+---
+
+# ⚙️ Leadership & Operations
+
+- Cross-functional delivery coordination
+- Architecture reviews
+- Production implementation planning
+- Risk management
+- Release governance
+- Technical quality assurance
+- Critical incident coordination
+- Continuous improvement initiatives
+
+---
+
+# 🤖 AI & Automation
+
+Exploring AI-assisted development workflows, engineering governance and automation strategies through MCP-based ecosystems and intelligent development tooling.
+
+---
+
+# 📚 Continuous Learning
+
+- Blockchain & digital ecosystems
+- Cloud architecture
+- Generative AI
+- MCP (Model Context Protocol)
+- Platform engineering & modernization
+
+---
+
+# 🌎 Engineering Principles
+
+> Build systems that scale operationally, not only technically.
+
+Focused on maintainability, reliability, scalability and long-term ecosystem evolution.
+
+---
+
+# 🌐 Professional Presence
+
+- 💼 LinkedIn: https://www.linkedin.com/in/andre-minin/
+- 🛠️ GitHub: https://github.com/aminin-IT
+- 📧 Professional Contact: aminin@tecnoaccion.com.ar
+- 🌎 Fintech & Platform Engineering Communities
